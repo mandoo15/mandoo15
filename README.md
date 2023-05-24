@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=footer&text=WECOME%20TO%20MY&fontsize=150-nl-GITHUB%20PAGE&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=footer&text=WECOME%20TO%20MY&fontsize=150-nl-GITHUB%20PAGE&fontSize=50&textBg=true)
 
 <!--
 **mandoo15/mandoo15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
