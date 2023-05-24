@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Minji's GitHub stats](https://github-readme-stats.vercel.app/api?username=mandoo15&show_icons=true&theme=graywhite)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandoo15&layout=swift&theme=graywhite)
+![Minji's GitHub stats]<div align="center">(https://github-readme-stats.vercel.app/api?username=mandoo15&show_icons=true&theme=graywhite)</div>
+
+![Top Langs]<div align="center">(https://github-readme-stats.vercel.app/api/top-langs/?username=mandoo15&layout=swift&theme=graywhite)</div>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=mandoo15)](https://solved.ac/mandoo15)
+프로필]<div align="center">(http://mazassumnida.wtf/api/generate_badge?boj=mandoo15)](https://solved.ac/mandoo15)</div>
 
 
 
