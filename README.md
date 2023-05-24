@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandoo15&layout=swift&theme=graywhite)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=mandoo15)](https://solved.ac/mandoo15)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=alswl615)](https://solved.ac/alswl615)
 
 
 
