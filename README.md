@@ -1,4 +1,4 @@
-### Hi there 👋
+### To Be A BACKEND DEVELOPER ✨
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=23527D&height=200&section=header&text=WECOME%20!-nl-&fontColor=FFFFFF&fontsize=130&animation=twinkling&desc=This%20Is%20MINJI's%20Github%20Page&descAlign=80)
 
