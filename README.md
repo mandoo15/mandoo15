@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Minji's GitHub stats](https://github-readme-stats.vercel.app/api?username=mandoo15&theme=dark&show_icons=true&theme=graywhite)
+![Minji's GitHub stats](https://github-readme-stats.vercel.app/api?username=mandoo15&show_icons=true&theme=graywhite)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=mandoo15)](https://solved.ac/mandoo15)
