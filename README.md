@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 
 ![Minji's GitHub stats](https://github-readme-stats.vercel.app/api?username=mandoo15&show_icons=true&theme=graywhite)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandoo15&layout=swift&theme=graywhite)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alswl615)](https://solved.ac/alswl615/)
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alswl615)](https://solved.ac/alswl615/)-->
 
 
 
