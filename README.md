@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Minji's GitHub stats](https://github-readme-stats.vercel.app/api?username=mandoo15&show_icons=true&theme=graywhite)
+<!--![Minji's GitHub stats](https://github-readme-stats.vercel.app/api?username=mandoo15&show_icons=true&theme=graywhite)-->
 
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alswl615)](https://solved.ac/alswl615/)-->
 
